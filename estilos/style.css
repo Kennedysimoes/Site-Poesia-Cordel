@@ -60,6 +60,7 @@ section{
     font-size: 3.5vw;
     background-size: cover;
     background-attachment: fixed;
+    text-shadow: 1px 0px 1px black;
     
 }
 
